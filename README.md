@@ -1,9 +1,3 @@
-Thanks for providing the code and the clear explanation of your project!
-
-Here's a summary for your GitHub README, incorporating the details you provided:
-
----
-
 # Heart Rate and Calorie Burn Prediction
 
 This project focuses on building and evaluating machine learning models to accurately predict calorie expenditure during workouts, leveraging key fitness metrics. By analyzing historical data encompassing heart rate, total steps, total active minutes, and total distance covered, the models aim to provide insightful predictions of calories burned.
